@@ -1,0 +1,21 @@
+﻿D:\vs2019\新建文件夹\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8004: Intermediate 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Intermediate 目录。
+  main.cpp
+C:\Users\chenziping\Desktop\git_raytracing\raytracing\vec3.h(47,10): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\chenziping\Desktop\git_raytracing\raytracing\sphere.h(18,10): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\chenziping\Desktop\git_raytracing\raytracing\sphere.h(22,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\chenziping\Desktop\git_raytracing\raytracing\sphere.h(32,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\chenziping\Desktop\git_raytracing\raytracing\material.h(13,58): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\chenziping\Desktop\git_raytracing\raytracing\material.h(13,46): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\chenziping\Desktop\git_raytracing\raytracing\material.h(13,34): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\chenziping\Desktop\git_raytracing\raytracing\dielectric.h(22,21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\chenziping\Desktop\git_raytracing\raytracing\dielectric.h(43,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\chenziping\Desktop\git_raytracing\raytracing\main.cpp(25,21): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\chenziping\Desktop\git_raytracing\raytracing\main.cpp(55,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\chenziping\Desktop\git_raytracing\raytracing\main.cpp(57,26): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\chenziping\Desktop\git_raytracing\raytracing\main.cpp(58,14): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\chenziping\Desktop\git_raytracing\raytracing\main.cpp(65,78): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\chenziping\Desktop\git_raytracing\raytracing\main.cpp(66,80): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\chenziping\Desktop\git_raytracing\raytracing\main.cpp(67,75): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\chenziping\Desktop\git_raytracing\raytracing\main.cpp(67,82): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\chenziping\Desktop\git_raytracing\raytracing\main.cpp(69,46): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  raytracing.vcxproj -> C:\Users\chenziping\Desktop\git_raytracing\x64\Debug\raytracing.exe
